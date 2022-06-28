@@ -30,24 +30,26 @@ To change a flat tire please follow the below steps:
 ### Remove the wheel
 
 
-1. Use an upright bike stand to elevate the wheel while you work. If necessary, you can turn the bike upside down to work on it, just remember to remove the panniers and other bags beforehand to prevent scratching them.
+1. **Use an upright bike stand to elevate the wheel while you work**
 
-2. Disconnect the brakes if they're in the way of taking off the wheel
+- If necessary, you can turn the bike upside down to work on it, just remember to remove the panniers and other bags beforehand to prevent scratching them.
+
+2. **Disconnect the brakes if they're in the way of taking off the wheel**
 - if it's rim brakes, you’ll need to release your brakes.
 - If it's a v-brake, squeeze the brake arms together to ease the tension so you can release the cable.
 - If there is a quick-release lever on the brake, open the lever.
 
-3. Release the wheel from the frame
+3. **Release the wheel from the frameReinstall the wheel**
 - Loosen the nuts on the wheel axle with a wrench. 
 - Use silicone spray or even cooking spray if the nuts refuse to loosen with a wrench or ratchet alone.
 - Some newer bikes have much simpler, quick-release wheel latches — in this case, just open the latch without removing the wheel yet.
 
-4. Pull the chain out of the way if you're removing the back wheel
+4. **Pull the chain out of the way if you're removing the back wheel**
 - You can give the chain more slack by adjusting the gears.
 - Shift until the chain is on the outermost gear on the rear wheel and the innermost gear on the pedal spindle.
 - Pull back on the rear derailleur (which guides the chain during gear shifts) so that the chain pulls away from the cassette's (gear disc's) cogs.
 
-5. Slide the wheel free from the bike
+5. **Slide the wheel free from the bike**
 - Guide the front wheel's axle — now that the nuts or quick-release are loose — out of the forked slot that holds it to the frame.
 - For the rear wheel, carefully guide the wheel down and forward (for an upright bike) past the chain and anything else in the way.
 - Keep pulling back on the rear derailleur to move the chain clear of the wheel.
