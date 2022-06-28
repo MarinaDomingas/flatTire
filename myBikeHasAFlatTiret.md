@@ -101,15 +101,36 @@ In ny other case, you can try to patch it.
 **To tepair a damaged tube, sand and glue the damaged spot, then affix a repair kit patch**
 Patching kits are unexpensive and a great way to repair small problems. They usually contain everything needed to create an effective patch in the field.
 
-1. Clean and dry the damaged area
+1. Clean and dry the damaged area.
 2. Rough up the surface of the damaged area with sandpaper (to help the glue adhere).
-3. Spread the glue
-4. Apply the tube patch and hold it in place with pressure
+3. Spread the glue.
+4. Apply the tube patch and hold it in place with pressure.
 
 
 ### Reinstall the wheel
 
+1. Add enough air to give the tube a basic circular shape and ensure it holds air.
 
+2. If you completely removed your tire from the rim while fixing your flat, push one edge of the tire inside the rim.
+
+3. Insert the valve stem into the valve hole on the rim. Check that the valve stem is straight and not at an angle.
+
+4. Place the rest of the tube inside the tire.
+
+- Once the tire and valve are in place, check along its edges to make sure that the tube is not caught between the rim and the tire bead. This could cause another flat.
+
+
+5. Pump up the tube to its full recommended tire pressure
+
+- Inflate the tire slowly, checking both sides of the rim to make sure that the tire bead stays firmly seated.
+- Check the pressure with a tire gauge, since an improperly inflated tire is more likely to get a hole or tear in it.
+
+6. Put the wheel back on the bike
+
+Reverse the process you used to remove the wheel from the bike:
+- Slide the wheel onto the frame's fork, but avoid the chain or other obstructions.
+- Reconnect the brakes, reversing the procedure you used to disconnect them — this will vary by brake type.
+- Latch the quick release or tighten the nuts that hold the wheel in place.
 
 
 ## How to Find the Hole in a Tire
