@@ -38,8 +38,7 @@ To change a flat tire please follow the below steps:
 - if it's rim brakes, you’ll need to release your brakes.
 - If it's a v-brake, squeeze the brake arms together to ease the tension so you can release the cable.
 - If there is a quick-release lever on the brake, open the lever.
-![](https://github.com/MarinaDomingas/flatTire/blob/main/quick-release.jpeg)
-<img src="https://github.com/MarinaDomingas/flatTire/blob/main/quick-release.jpeg" style="height: 100px; width:100px;"/>
+<img src="https://github.com/MarinaDomingas/flatTire/blob/main/quick-release.jpeg" style="height: 300px; width:225px;"/>
 
 
 **3. Release the wheel from the frameReinstall the wheel**
