@@ -5,7 +5,7 @@ In order to fix a flat tire, the first thing to do is to make sure that it is pa
 
 Then, you must check if the tire is really damaged or if it is just empty.
 
-For that, thoroughly inspect the tire and look for any [signs of tears, pucture or for something that might be stuck on it](#Find-the-cause-of-the-flat).
+For that, thoroughly inspect the tire and look for any [signs of tears, puctures](#Find-the-cause-of-the-flat) or for something that might be stuck on it.
 
 If you find none, probably the tire is just empty and in need of being pumped up.
 
@@ -37,7 +37,7 @@ To change a flat tire please follow the below steps:
 **2. Disconnect the brakes if they're in the way of taking off the wheel**
 - if it's rim brakes, you’ll need to release your brakes.
 
-[![Image alt text](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)]
+[![Image alt text](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg](https://www.rei.com/dam/morgan_102919_0459_and_0465_v-brakes_composite.jpg)]
 - If it's a v-brake, squeeze the brake arms together to ease the tension so you can release the cable.
 - If there is a quick-release lever on the brake, open the lever.
 
