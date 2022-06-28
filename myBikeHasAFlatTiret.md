@@ -21,7 +21,7 @@ To change a flat tire please follow the below steps:
 
 - [Find the cause of the flat](Find-the-cause-of-the-flat): Inspect the wheel, tire and tube for the location and causes of tears or punctures.
 
-- [Patch or replace the tube](Patch-or-replace-the-tube): When out riding, its better to replace the tube with a new one and fix the damaged one later.
+- [Patch or replace the tube](Patch-or-replace-the-tube-?): When out riding, its better to replace the tube with a new one and fix the damaged one later.
 
 - [Reinstall the wheel](Reinstall-the-wheel): A walk through on the steps for the front and back wheel.
 
