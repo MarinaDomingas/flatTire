@@ -137,3 +137,5 @@ Reverse the process you used to remove the wheel from the bike:
 - Latch the quick release or tighten the nuts that hold the wheel in place.
 
 
+For more information please consult the website: https://www.rei.com/learn/expert-advice/flat-tire.html
+Image credits: https://www.rei.com/learn/expert-advice/flat-tire.html
