@@ -22,7 +22,7 @@ To change a flat tire please follow the below steps:
 
 - [Find the cause of the flat](#Find-the-cause-of-the-flat): Inspect the wheel, tire and tube for the location and causes of tears or punctures.
 
-- [Patch or replace the tube](#Patch-or-replace-the-tube): When out riding, its better to replace the tube with a new one and fix the damaged one later.
+- [Patch or replace the tube?](#Patch-or-replace-the-tube): When out riding, its better to replace the tube with a new one and fix the damaged one later.
 
 - [Reinstall the wheel](#Reinstall-the-wheel): A walk through on the steps for the front and back wheel.
 
@@ -36,7 +36,7 @@ To change a flat tire please follow the below steps:
 
 **2. Disconnect the brakes if they're in the way of taking off the wheel**
 - if it's rim brakes, you’ll need to release your brakes.
-![]([https://www.rei.com/dam/morgan_102919_0459_and_0465_v-brakes_composite.jpg)]
+![]([https://www.rei.com/dam/morgan_102919_0459_and_0465_v-brakes_composite.jpg])
 - If it's a v-brake, squeeze the brake arms together to ease the tension so you can release the cable.
 - If there is a quick-release lever on the brake, open the lever.
 
