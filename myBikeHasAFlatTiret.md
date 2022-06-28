@@ -37,9 +37,9 @@ To change a flat tire please follow the below steps:
 **2. Disconnect the brakes if they're in the way of taking off the wheel**
 - if it's rim brakes, you’ll need to release your brakes.
 - If it's a v-brake, squeeze the brake arms together to ease the tension so you can release the cable.
-<img src="https://www.rei.com/dam/morgan_102919_0459_and_0465_v-brakes_composite.jpg" alt="" style="height: 100px; width:100px;"/>
 - If there is a quick-release lever on the brake, open the lever.
-<img src="https://www.rei.com/dam/morgan_102919_0448_and_0049_rim_brakes_composite.jpg" alt="" style="height: 100px; width:100px;"/>
+![](quick-release.png)
+
 
 **3. Release the wheel from the frameReinstall the wheel**
 - Loosen the nuts on the wheel axle with a wrench. 
