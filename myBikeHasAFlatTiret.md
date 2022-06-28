@@ -1,11 +1,11 @@
 
 # My bike has a flat tire. Now what?
 
-In order to fix a flat tire, the first thing to do is to make sure that it is parked in a safty area, away from traffic and on a flat surface.
+In order to fix a flat tire, the first thing to do is to make sure that it is parked in a safety area, away from traffic and on a flat surface.
 
 Then, you must check if the tire is really damaged or if it is just empty.
 
-For that, thoroughly inspect the tire and look for any [signs of tears, puctures](#Find-the-cause-of-the-flat) or for something that might be stuck on it.
+For that, thoroughly inspect the tire and look for any [signs of tears, punctures](#Find-the-cause-of-the-flat) or for something that might be stuck on it.
 
 If you find none, probably the tire is just empty and in need of being pumped up.
 
@@ -14,7 +14,7 @@ If you find none, probably the tire is just empty and in need of being pumped up
 
 # How to change a flat bicycle tire
 
-To change a flat tire please follow the below steps:
+To change a flat tire please follow the steps below:
 
 - [Remove the wheel](#Remove-the-wheel): Release the brakes, then the wheel.
 
@@ -22,7 +22,7 @@ To change a flat tire please follow the below steps:
 
 - [Find the cause of the flat](#Find-the-cause-of-the-flat): Inspect the wheel, tire and tube for the location and causes of tears or punctures.
 
-- [Patch or replace the tube?](#Patch-or-replace-the-tube): When out riding, its better to replace the tube with a new one and fix the damaged one later.
+- [Patch or replace the tube](#Patch-or-replace-the-tube): When out riding, its probably better to replace the tube with a new one and fix the damaged one later.
 
 - [Reinstall the wheel](#Reinstall-the-wheel): A walk through on the steps for the front and back wheel.
 
@@ -41,7 +41,7 @@ To change a flat tire please follow the below steps:
 
   <img src="https://github.com/MarinaDomingas/flatTire/blob/main/quick-release.jpeg" style="height: 225px; width:450px;"/>
 
-**3. Release the wheel from the frameReinstall the wheel**
+**3. Release the wheel from the frame**
 - Loosen the nuts on the wheel axle with a wrench. 
 - Use silicone spray or even cooking spray if the nuts refuse to loosen with a wrench or ratchet alone.
 - Some newer bikes have much simpler, quick-release wheel latches — in this case, just open the latch without removing the wheel yet.
@@ -58,7 +58,7 @@ To change a flat tire please follow the below steps:
 
 **Tips:**
 - If your bike has disc brakes, be careful not to touch the rotor when opening the quick-release mechanism because it can be hot enough to burn you. Also, avoid getting oil or other contaminants on your disc brakes.
-- Practice taking the wheel on befora it is actually needed might be a good idea. That way it will be easier when you actually have to do it by the side of the road.
+- Practice taking the wheel on before it is actually needed might be a good idea. That way it will be easier when you actually have to do it by the side of the road.
 
 ## Remove the inner tube
 
@@ -75,7 +75,7 @@ To change a flat tire please follow the below steps:
   <img src="https://github.com/MarinaDomingas/flatTire/blob/main/lever.jpeg" style="height: 225px; width:450px;"/>
  
 - Once a section of the tire bead is free, you should be able to free the rest of the tire bead with your fingers.
-- Remove the inflatable tube from beneath the tire by pulling the valve stem out through the rim first (be carefull the rim edges are sharp). The rest of the tube should slide out easily when pulled. 
+- Remove the inflatable tube from beneath the tire by pulling the valve stem out through the rim first (be careful the rim edges are sharp). The rest of the tube should slide out easily when pulled. 
 
 **Tip:** If you don't have a tire lever, you can do it anyway. It's more difficult to do without a tire lever, but you can unseat the tire bead by pushing the bead edge in toward the center of the rim and working your way around the rim. Then move the bead of the tire up and over the outside edge of the rim. 
 
@@ -85,7 +85,7 @@ To change a flat tire please follow the below steps:
 **1. Check for sharp objects on the underside of the tire tread**
 - Run your finger or a cloth around the entire channel in which the bike tube rests when installed. Be careful not to cut yourself, since you might come across a nail or shard of glass. 
 - Remove anything that might damage the tube you're about to repair or replace.
-- If you find a cut longer than around half a centimeter , replace the tire rather than trying to repair it.
+- If you find a cut longer than around half a centimeter, replace the tire rather than trying to repair it.
 
 **2. inflate the tube to see if it's punctured**
 - Tube damage can be difficult to spot. If you don't see any obvious punctures or blowouts, inflate the tube to check for escaping air.
@@ -95,13 +95,13 @@ To change a flat tire please follow the below steps:
 
 
 
-## Patch or replace the tube?
+## Patch or replace the tube
 
 If you are outside biking and don't want to lose a lot of time, the best option is to replace the tire.
-Also, if the damage is too extensive or severe to patch, a patch job failed to hold orthe tube’s valve is damaged, the tire should be replaced.
+Also, if the damage is too extensive or severe to patch, a patch job failed to hold or the tube’s valve is damaged, the tire should be replaced.
 In ny other case, you can try to patch it.
 
-**To tepair a damaged tube, sand and glue the damaged spot, then affix a repair kit patch**
+**To repair a damaged tube, sand and glue the damaged spot, then affix a repair kit patch**
 Patching kits are unexpensive and a great way to repair small problems. They usually contain everything needed to create an effective patch in the field.
 
 **1. Clean and dry the damaged area**
@@ -139,7 +139,7 @@ Reverse the process you used to remove the wheel from the bike:
 **You successfully changed a flat tire! now go for a ride :)**
 
 
-->For more information please consult the websites: 
+->For more information, please consult the websites: 
 - https://www.rei.com/learn/expert-advice/flat-tire.html
 - https://www.wikihow.com/Fix-a-Bike-Tire
 
