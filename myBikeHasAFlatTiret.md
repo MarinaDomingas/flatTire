@@ -38,8 +38,8 @@ To change a flat tire please follow the below steps:
 - if it's rim brakes, you’ll need to release your brakes.
 - If it's a v-brake, squeeze the brake arms together to ease the tension so you can release the cable.
 - If there is a quick-release lever on the brake, open the lever.
-  <img src="https://github.com/MarinaDomingas/flatTire/blob/main/quick-release.jpeg" style="height: 225px; width:450px;"/>
 
+  <img src="https://github.com/MarinaDomingas/flatTire/blob/main/quick-release.jpeg" style="height: 225px; width:450px;"/>
 
 **3. Release the wheel from the frameReinstall the wheel**
 - Loosen the nuts on the wheel axle with a wrench. 
@@ -71,6 +71,9 @@ To change a flat tire please follow the below steps:
 - When using tire levers, start on the section of your tire opposite the valve (to avoid damaging the valve stem).
 - Use the longer end of one tire lever to pry the bead of the tire up and over the edge of the rim
 - If you can't unseat the tire with just one lever, place a second lever about two or three spokes to either side of the first. 
+
+  <img src="https://github.com/MarinaDomingas/flatTire/blob/main/lever.jpeg" style="height: 225px; width:450px;"/>
+ 
 - Once a section of the tire bead is free, you should be able to free the rest of the tire bead with your fingers.
 - Remove the inflatable tube from beneath the tire by pulling the valve stem out through the rim first (be carefull the rim edges are sharp). The rest of the tube should slide out easily when pulled. 
 
