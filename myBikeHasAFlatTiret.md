@@ -136,6 +136,11 @@ Reverse the process you used to remove the wheel from the bike:
 - Reconnect the brakes, reversing the procedure you used to disconnect them — this will vary by brake type.
 - Latch the quick release or tighten the nuts that hold the wheel in place.
 
+**You successfully changed a flat tire! now go for a ride :)**
 
-For more information please consult the website: https://www.rei.com/learn/expert-advice/flat-tire.html
+
+->For more information please consult the websites: 
+- https://www.rei.com/learn/expert-advice/flat-tire.html
+- https://www.wikihow.com/Fix-a-Bike-Tire
+
 Image credits: https://www.rei.com/learn/expert-advice/flat-tire.html
