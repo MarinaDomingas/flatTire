@@ -92,7 +92,6 @@ To change a flat tire please follow the below steps:
 
 
 
-
 ### Patch or replace the tube?
 
 If you are outside biking and don't want to lose a lot of time, the best option is to replace the tire.
@@ -109,6 +108,7 @@ Patching kits are unexpensive and a great way to repair small problems. They usu
 
 
 ### Reinstall the wheel
+
 
 
 
